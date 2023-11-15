@@ -1,3 +1,7 @@
 body {
     background-color: black;
 }
+
+.card-img-top {
+    border-radius: 5%;
+}
