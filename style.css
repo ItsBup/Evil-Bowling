@@ -5,3 +5,7 @@ body {
 .card-img-top {
     border-radius: 5%;
 }
+
+.redLine {
+    border: 2px solid red;
+}
